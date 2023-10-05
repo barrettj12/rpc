@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/barrettj12/rpc/v2"
+	"github.com/barrettj12/rpc"
 )
 
 func Example() {
